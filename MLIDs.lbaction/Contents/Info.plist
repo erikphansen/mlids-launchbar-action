@@ -8,17 +8,25 @@
 	<string>com.erikphansen.LaunchBar.action.MLIDs</string>
 	<key>CFBundleName</key>
 	<string>MLIDs</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string></string>
+		<string>Erik P. Hansen</string>
 		<key>LBEmail</key>
-		<string></string>
+		<string>eph@erikphansen.com</string>
+		<key>LBResult</key>
+		<string>Pastes a merchant slug or ID</string>
+		<key>LBSummary</key>
+		<string>Shows a list of common merchants for both local testing and prod testing.</string>
 		<key>LBTwitter</key>
-		<string></string>
+		<string>@eirkeirkeirk</string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>http://blog.erikphansen.com</string>
 	</dict>
+	<key>LBResult</key>
+	<string>Pastes a merchant slug or ID</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
