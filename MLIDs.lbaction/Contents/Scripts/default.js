@@ -1,11 +1,9 @@
 var merchants = [
-  {name: 'LOCAL'},
   {name: 'Mancini De Paris', mlid: '398', slug: 'mancini-de-paris'},
   {name: 'The Ugly Mug', mlid: '193', slug: 'the-ugly-mug'},
   {name: 'Irish Channel', mlid: '250', slug: 'irish-channel'},
-  {name: 'Dante Pizzeria', mlid: '197330', slug: 'dante-pizzeria'},
-  {name: 'Euphoria Hair', mlid: '355259', slug: 'euphoria-hair'},
-  {name: 'PROD TESTING'},
+  {name: 'DANTE PIZZERIA NAPOLETANA', mlid: '197330', slug: 'dante-pizzeria-napoletana'},
+  {name: 'EUPHORIA HAIR & BODY SALON (VALERIA) (PMOBILE)', mlid: '355259', slug: 'euphoria-hair-body-salon-valeria-pmobile'},
   {name: 'Mykonos Restaurant', mlid: '1528303', slug: 'mykonos-restaurant'},
   {name: 'New Frontier Restaurant', mlid: '1428000', slug: 'new-frontier-restaurant'},
   {name: 'Sandspike', mlid: '1437524', slug: 'sandspike'},
